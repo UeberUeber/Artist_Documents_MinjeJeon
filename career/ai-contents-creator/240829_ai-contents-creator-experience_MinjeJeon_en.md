@@ -21,12 +21,12 @@ Until recently, I led the production of AI artists and overall AI new business d
 - **Related Article:** [Seoul Focus Press Release](https://www.seoulfocus.kr/news/articleView.html?idxno=162309)
 - **Tech Stack:** The process was similar to the contest work mentioned above.
 
-### 3. Cinematic Style Experiment (Submission for a domestic AI film festival)
+### 3. Cinematic Style Experiment (2024, Submission for a domestic AI film festival)
 - **Description:** A film submitted to a domestic AI film festival, combining horror and humor using Korean internet memes.
 - **Video:** [Watch the film](https://youtu.be/IkDq6iuZv7c)
-- **Tech Stack:** Primarily used Midjourney, Runway, and Luma AI (before the Google Veo era).
+- **Tech Stack:** Primarily used Midjourney, Runway, and Luma AI (before the Google Veo3 era).
 
 ### 4. Google Veo Experiment Log
 - **Description:** A channel dedicated to experimenting with physics and prompts using Google's AI video model, Veo, and archiving the results.
 - **Channel:** [Go to YouTube Shorts Channel](https://www.youtube.com/@JuicyBits01/shorts)
-- **Tech Stack:** Utilized Veo 3 within Gemini and Google Flow.
+- **Tech Stack:** Utilized Veo3 within Gemini and Google Flow.
