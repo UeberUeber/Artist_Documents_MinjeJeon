@@ -21,12 +21,12 @@
 - **관련 기사:** [서울포커스 보도자료](https://www.seoulfocus.kr/news/articleView.html?idxno=162309)
 - **기술 스택:** 위 공모전 작업과 유사한 프로세스로 진행
 
-### 3. 영화적 스타일 실험 (국내 AI 영화제 출품작)
+### 3. 영화적 스타일 실험 (2024, 국내 AI 영화제 출품작)
 - **내용:** 국내 AI 영화제에 출품한 작품으로, 한국의 인터넷 밈(meme)을 활용하여 공포와 유머를 결합한 컨셉의 영상입니다.
 - **영상:** [작품 보기](https://youtu.be/IkDq6iuZv7c)
-- **기술 스택:** Midjourney, Runway, Luma AI를 중점적으로 활용 (Google Veo 이전 시기)
+- **기술 스택:** Midjourney, Runway, Luma AI를 중점적으로 활용 (Veo3 이전 시기)
 
 ### 4. Google Veo 실험 기록
 - **내용:** Google의 AI 영상 모델 Veo를 활용하여 물리 현상과 프롬프트를 실험하고, 그 결과를 기록하는 채널입니다.
 - **채널:** [YouTube Shorts 채널 바로가기](https://www.youtube.com/@JuicyBits01/shorts)
-- **기술 스택:** Gemini 및 Google Flow에서 Veo 3 활용
+- **기술 스택:** Gemini 및 Google Flow에서 Veo3 활용
